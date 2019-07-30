@@ -17,3 +17,5 @@ For general help about the Mono framework, take a look at the [Mono website](htt
 ### Reporting Bugs
 
 Filing bug reports is a very easy way to help contribute to any project. See the [Reporting Bugs](/help/reporting-bugs/) guide for more info.
+
+Why do I have to install bunch of crap just to have Mono on my Windows? WHY?
